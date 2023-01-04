@@ -14,6 +14,6 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("我刚才提交了什么?")
     print("测试名称")
-    print("111222test_reset")
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
