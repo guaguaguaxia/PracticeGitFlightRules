@@ -16,4 +16,7 @@ if __name__ == '__main__':
     print("测试名称")
     print("删除任意提交")
 
+
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
