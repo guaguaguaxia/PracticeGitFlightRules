@@ -17,6 +17,7 @@ if __name__ == '__main__':
     print("删除任意提交")
     print("test reset --hard")
     print("test Staging11")
+    print("test Staging22")
 
 
 
