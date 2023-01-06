@@ -16,6 +16,8 @@ if __name__ == '__main__':
     print("测试名称")
     print("删除任意提交")
     print("test reset --hard")
+    print("test Staging11")
+
 
 
 
